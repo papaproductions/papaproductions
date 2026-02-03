@@ -11,5 +11,3 @@ Most repositories here are old projects I've decided to host here, and some of t
 If you have any doubts/suggestions, be sure to let me know through Discord (my username is `meow.sylv`)!
 
 This profile pic was made by [@siyurume](https://twitter.com/siyurume) on Twitter btw!!
-
-FUCK you github for fixing the css injection exploit 3:<
